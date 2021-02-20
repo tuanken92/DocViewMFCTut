@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="TestGTC">
+      <UniqueIdentifier>{1732ef31-2b19-45dc-afd1-c0c64cd321e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3d button">
+      <UniqueIdentifier>{9c16c4e8-5fc1-4445-b521-75db75db9a9b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCDocViewTut.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCDocViewTutDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCDocViewTutView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyProgressWnd.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorEdit.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorStatic.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonGetNumDlg.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonGetValueDlg.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonMsgDlg.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="MyMsgWnd.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="Mywnd.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="DefColor.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="btnenh.h">
+      <Filter>3d button</Filter>
+    </ClInclude>
+    <ClInclude Include="DefUserVK.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="cellsmanager.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="surfacecolor.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="textdescriptor.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>TestGTC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCDocViewTut.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCDocViewTutDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCDocViewTutView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyProgressWnd.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorEdit.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorStatic.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonGetNumDlg.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonGetValueDlg.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonMsgDlg.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="MyMsgWnd.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="Mywnd.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="btnenh.cpp">
+      <Filter>3d button</Filter>
+    </ClCompile>
+    <ClCompile Include="cellsmanager.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="font.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="surfacecolor.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="textdescriptor.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.cpp">
+      <Filter>TestGTC</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCDocViewTut.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCDocViewTut.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCDocViewTutDoc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\MFCDocViewTut.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
